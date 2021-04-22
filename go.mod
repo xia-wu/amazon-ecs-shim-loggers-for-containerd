@@ -35,6 +35,6 @@ require (
 )
 
 // Workaround for optionally calling create log stream API
-replace github.com/docker/docker v0.7.3-0.20190918143018-ad1b781e44fa => github.com/xia-wu/moby v17.12.0-ce-rc1.0.20210308205136-2cd0a2a46d81+incompatible
+replace github.com/docker/docker v0.7.3-0.20190918143018-ad1b781e44fa => github.com/xia-wu/moby v17.12.0-ce-rc1.0.20210422194100-6a2461537335+incompatible
 
 go 1.13

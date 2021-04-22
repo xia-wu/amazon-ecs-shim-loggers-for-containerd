@@ -155,6 +155,7 @@ github.com/tinylib/msgp v1.1.1/go.mod h1:+d+yLhGm8mzTaHzB+wgMYrodPfmZrzkirds8fDW
 github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
 github.com/xia-wu/moby v17.12.0-ce-rc1.0.20210308205136-2cd0a2a46d81+incompatible h1:lzTl9eXlIn6NuzgpYEFKvS6mWtY8NujYIB4JuYi8EGw=
 github.com/xia-wu/moby v17.12.0-ce-rc1.0.20210308205136-2cd0a2a46d81+incompatible/go.mod h1:llIL5W60ILflryyuaWzMiFgtEp1AeKaPYz4Pb4GyVtE=
+github.com/xia-wu/moby v17.12.0-ce-rc1.0.20210422194100-6a2461537335+incompatible/go.mod h1:llIL5W60ILflryyuaWzMiFgtEp1AeKaPYz4Pb4GyVtE=
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 golang.org/x/crypto v0.0.0-20180904163835-0709b304e793/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/crypto v0.0.0-20181203042331-505ab145d0a9/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
